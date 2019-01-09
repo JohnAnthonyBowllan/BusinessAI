@@ -1,5 +1,6 @@
 # Business AI: Designing a Business Recommendation System Using Data Analysis and Deep Learning
 This repository contains research from my Research Experience for Undergraduates in machine learning. This was one of the most fun and most transformative educational experiences of my life! The goal was to design a Business Recommendation System using data analysis and deep learning. Data analysis was used to visualize features, generate new ones, and further discover the problem while machine learning was used to accurately predict user business ratings from user features, item features, and the historical interactions between the two.
+The code and writing for this work is a direct collaboration between Kailey Cozart and I, under the supervision of Mahdi Seyednejad, Dr. Anthony Smith, and Dr. Ronaldo Menezes.
 
 I have included the current technical report (revising for publishing) for a view into what the project entailed and the context for the code:
 [BusinessAI_techreport.pdf](https://github.com/JohnAnthonyBowllan/BusinessAI/files/2739236/BusinessAI_techreport.pdf)
