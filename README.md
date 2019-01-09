@@ -16,4 +16,4 @@ Use data science to find the problem and machine learning to offer accurate solu
 ![torontogif 1](https://user-images.githubusercontent.com/22419878/50874434-06198700-1392-11e9-930f-a73ab6251671.gif)
 
 
-<img width="470" alt="screen shot 2019-01-08 at 10 50 44 pm" src="https://user-images.githubusercontent.com/22419878/50875774-da999b00-1397-11e9-8ebd-90ae4c0caa32.png">
+<img width="591" alt="screen shot 2019-01-08 at 10 56 06 pm" src="https://user-images.githubusercontent.com/22419878/50875962-ad012180-1398-11e9-8424-a5b59875729a.png">
