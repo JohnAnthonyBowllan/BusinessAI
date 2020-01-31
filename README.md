@@ -7,8 +7,8 @@ I have included the current technical report (revising for publishing) for a vie
 
 Below you will find a couple my favorite models/visualizations used through out the project.
 
-## Nested Stochastic Block Model (NSBM): communities of business categories
-The exterior images represent some of the nodes on the perimeter of the circle and the interior of the NSBM the 
+## Nested Stochastic Block Model (NSBM): communities of business descriptors
+The exterior images represent some of the nodes on the perimeter of the circle and the interior of the NSBM the
 interplay between the nodes. This method groups similar business categories and discriminates dissimilar ones.
 
 <img width="591" alt="screen shot 2019-01-08 at 10 56 06 pm" src="https://user-images.githubusercontent.com/22419878/50875962-ad012180-1398-11e9-8424-a5b59875729a.png">
@@ -18,5 +18,3 @@ interplay between the nodes. This method groups similar business categories and 
 
 ## Toronto Spatial Evolution of Popular Businesses
 ![torontogif 1](https://user-images.githubusercontent.com/22419878/50874434-06198700-1392-11e9-930f-a73ab6251671.gif)
-
-
